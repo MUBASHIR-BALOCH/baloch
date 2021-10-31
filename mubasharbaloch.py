@@ -59,7 +59,7 @@ _logo_line_2_ = ('%s| ___ \/ _ \ | |   |  _  /  __ \| | | | %s┌─────
 _logo_line_3_ = ('%s| |_/ / /_\ \| |   | | | | /  \/| |_| |  %s│   %s• Code By Mr Baloch  •   %s│'%(_P_,_U_,_P_,_U_))
 _logo_line_4_ = ('%s| ___ \  _  || |   | | | | |    |  _  |   %s│ %sGithub.com/MUBASHIR-BALOCH %s│'%(_P_,_U_,_P_,_U_))
 _logo_line_5_ = ('%s| |_/ / | | || |___\ \_/ / \__/\| | | |    └─────────────────────────┘'%(_U_))
-_logo_line_6_ = ('%s\____/\_| |_/\_____/\___/ \____/
+
 def _my_logo_():
     _dapunta_cici_(_logo_line_1_)
     _dapunta_cici_(_logo_line_2_)
